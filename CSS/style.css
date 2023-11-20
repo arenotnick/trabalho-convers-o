@@ -1,0 +1,74 @@
+/* Configurações para o corpo da página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('/images/notas-de-moedas-internacionais-de-diferentes-paises-sobrepostos-uns-aos-outros_73110-1165.avif');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Estilização do container principal */
+.container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilo do título principal */
+h1 {
+    color: #333;
+}
+
+/* Estilo para rótulos */
+label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+}
+
+/* Estilo para seletores e entradas de texto */
+select, input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* Estilo para botão de conversão */
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Efeito de hover para o botão */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilo para títulos secundários */
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Estilo para a div de resultado */
+#resultado {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+}
+

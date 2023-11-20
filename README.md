@@ -1,0 +1,4 @@
+# Trabalho-Final
+Nicolas Miguel Augusto
+
+O projeto é uma página web que ajuda as pessoas a converterem valores de dinheiro entre diferentes moedas, como Real, Euro e Dólar. Você insere o valor que quer converter, escolhe as moedas e a aplicação mostra o resultado de forma fácil de entender. A página é bonita, com imagens e botões bem feitos, para que seja agradável de usar. O código por trás da página está organizado e tem comentários explicativos em português para facilitar o entendimento. A aplicação se conecta a uma ferramenta online que fornece as informações necessárias para as conversões.
